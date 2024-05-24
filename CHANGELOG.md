@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+- Ruby 3.4.0-preview1 is now available
+- JRuby 9.4.7.0, 9.4.6.0, and 9.3.14.0 are now available
 - Fix issue with sprockets reference being nil when
   propshaft gem is used instead (https://github.com/heroku/heroku-buildpack-ruby/pull/1452)
 
